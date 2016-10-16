@@ -94,29 +94,29 @@
         </RadioGroup>
 
         <TextView
-            android:id="@+id/textViewBimbel"
+            android:id="@+id/textViewEkskul"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Bimbel yang diikuti" />
+            android:text="Ekskul yang diikuti" />
 
         <CheckBox
             android:id="@+id/checkBoxBING"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="B.INGGRIS" />
+            android:text="Volly" />
 
         <CheckBox
             android:id="@+id/checkBoxBI"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:checked="false"
-            android:text="B.INDONESIA" />
+            android:text="Basket" />
 
         <CheckBox
             android:id="@+id/checkBoxMTK"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="MTK" />
+            android:text="Futsal" />
 
         <TextView
             android:id="@+id/textViewAgama"
